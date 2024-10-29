@@ -43,7 +43,7 @@ button {
 }
 
 button:hover {
-    background-color: #0027ff;
+    background-color: #0028ff;
 }
 
 .weather-info {
